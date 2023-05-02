@@ -1,0 +1,69 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="",Anexion TV
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="",Antena Seis TV
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="General",Canal 11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="General",Canal 2
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal38.cr" tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="Music",Canal 38
+https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="",Canal 4
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="",Canal 6
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="",Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-logo="https://i.imgur.com/GfpPQ5D.png" group-title="Religious",Enlace Juvenil
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="",Guatuso TV
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+#EXTINF:-1 tvg-id="HBTVTicaVision.cr" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="",HBTV TicaVision
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="IQChannel.cr" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Music",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="General",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="",NicoyaTV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="OldiesHits.cr" tvg-logo="https://i.imgur.com/R4X1mkM.png" group-title="",Oldies Hits
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:-1 tvg-id="RTTV.cr" tvg-logo="https://i.imgur.com/eTfsCCq.png" group-title="",RTTV
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8
+#EXTINF:-1 tvg-id="SanVitoTelevision.cr" tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="",San Vito Television
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="",Sarapiqui TV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-id="SMOTV.cr" tvg-logo="https://i.imgur.com/WzGxHXs.png" group-title="Religious",SMO TV
+http://186.15.50.30:8080/hls/smotv.m3u8
+#EXTINF:-1 tvg-id="Telesistema.cr" tvg-logo="https://i.imgur.com/A0BBS4z.png" group-title="",Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="",TeleSUR Costa Rica
+http://k3.usastreams.com/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleUno.cr" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="",Tele Uno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-id="TicaTVPlus.cr" tvg-logo="https://i.imgur.com/zMdY7fy.png" group-title="Entertainment",Tica TV+
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="",TVN 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="",TV Sur Canal 14
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="",TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Music",Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Music",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="Music",VoiceOver Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
